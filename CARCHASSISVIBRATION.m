@@ -1,3 +1,4 @@
+% MATLAB CODE
 clear; clc; close all; rng(1);
 
 %% 1. DESIGN PARAMETERS ---------------------------------------------------
